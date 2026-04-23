@@ -1,5 +1,8 @@
 # 📦 Olist E-Commerce Analytics (Streamlit App)
 
+## View it in one click with Streamlit
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://phnam05-olist.streamlit.app/)
+
 ## Overview
 
 This project is an interactive **Streamlit dashboard** for analyzing the
