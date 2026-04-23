@@ -99,7 +99,7 @@ streamlit run app.py
 
 ## Data Source
 
-Dataset: **Olist Brazilian E-Commerce Public Dataset**
+Dataset: **Olist Brazilian E-Commerce Public Dataset @ Kaggle** 
 
 Contains real-world transactional data including: - Orders - Payments -
 Customers - Reviews
@@ -117,22 +117,3 @@ Customers - Reviews
     campaigns
 
 ------------------------------------------------------------------------
-
-## Future Improvements
-
--   Add cohort analysis
--   Customer segmentation (RFM)
--   Predictive modeling (churn / LTV)
--   Deployment (Streamlit Cloud)
-
-------------------------------------------------------------------------
-
-## Author
-
-Your Name
-
-------------------------------------------------------------------------
-
-## License
-
-MIT License
